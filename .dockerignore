@@ -1,0 +1,7 @@
+ .git
+ .gitignore
+ *.yml
+ *.yaml
+ target/
+ Dockerfile
+ .dockerignore
